@@ -18,7 +18,7 @@
 // let flags = [true, false, true];
 
 // // Q6.
-// let mixedArray = ["Ali", 25, true];
+// let mixedArray = ["ahmed", 25, true];
 
 // //Q7.
 // let qualifications = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M.Phil", "PhD"];
@@ -30,7 +30,7 @@
 // console.log(qualifications );
 
 // // 8. Student names, scores & percentage
-// let studentNames = ["Ali", "Ahmed", "Sara"];
+// let studentNames = ["muhammad", "Ahmed", "arhum"];
 // let scores = [420, 380, 450];
 // let totalMarks = 500;
 
