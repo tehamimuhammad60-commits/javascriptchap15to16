@@ -92,7 +92,7 @@
 
 // // Q11.
 // let cities = ["Karachi", "Lahore", "Islamabad", "Quetta", "Peshawar"];
-// let selectedCities = cities.slice(1, 4);
+// let selectedCities = cities.slice(2, 4);
 
 // alert(`Cities:${cities}`);
 // alert(`Cities:${cities}`);
